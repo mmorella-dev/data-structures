@@ -1,3 +1,6 @@
+// FILE:    task1_main.cpp
+// AUTHOR:  Mae Morella
+
 #include <iostream>
 
 #include "node1.h"
